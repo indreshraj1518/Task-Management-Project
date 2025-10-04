@@ -1,0 +1,7 @@
+# Backend
+backend/node_modules
+backend/.env
+
+# Frontend
+frontend/TaskManagement/node_modules
+frontend/TaskManagement/.env
