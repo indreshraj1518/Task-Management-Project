@@ -63,6 +63,8 @@ API validates input and user permissions
 Provides proper error messages for unauthorized access, missing fields, or non-existent users
 Frontend shows alerts for failures (task fetch, edit, delete, etc.)
 
+DEMO VIDEO LINK:https://www.loom.com/share/e76777c0ac2e4eb6834172094cf576de?sid=c80e1bee-3070-4e3e-b55b-22916ed260c4
+
 project-root/
 │
 ├── backend/
